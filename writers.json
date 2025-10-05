@@ -1,1 +1,32 @@
-
+{
+  "writers": [
+    {
+      "id": "68vfh4v",
+      "name": "Wyatt Kline",
+      "children": [
+        {
+          "id": "8zqjgyy",
+          "name": "Ethan Keys",
+          "children": [
+            {
+              "id": "n3vf45v",
+              "name": "Joaquinn Arimany",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1cshfly",
+          "name": "Ethan Adams",
+          "children": [
+            {
+              "id": "uxovely",
+              "name": "Daniel Murchie",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
