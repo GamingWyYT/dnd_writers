@@ -1,32 +1,7 @@
-{
-  "writers": [
-    {
-      "id": "68vfh4v",
-      "name": "Wyatt Kline",
-      "children": [
-        {
-          "id": "8zqjgyy",
-          "name": "Ethan Keys",
-          "children": [
-            {
-              "id": "n3vf45v",
-              "name": "Joaquinn Arimany",
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "1cshfly",
-          "name": "Ethan Adams",
-          "children": [
-            {
-              "id": "uxovely",
-              "name": "Daniel Murchie",
-              "children": []
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  { "id": "1", "name": "Wyatt Kline", "children": ["2", "3"] },
+  { "id": "2", "name": "Ethan Keys", "children": ["4"] },
+  { "id": "3", "name": "Ethan Adams", "children": ["5"] },
+  { "id": "4", "name": "Joaquinn Arimany", "children": ["4"] },
+  { "id": "5", "name": "Daniel Murchie", "children": ["5"] }
+]
