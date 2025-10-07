@@ -3,19 +3,17 @@
     {
       "id": "1",
       "name": "Wyatt Kline",
+      "description": "Overseer & Element Maker Boss",
       "children": [
         {
           "id": "2",
           "name": "Ethan Keys",
+          "description": "World Builder",
           "children": [
             {
               "id": "3",
               "name": "Joaquinn Arimany",
-              "children": []
-            },
-            {
-              "id": "jiw7ep3",
-              "name": "TESTING NODE",
+              "description": "Map Design",
               "children": []
             }
           ]
@@ -23,10 +21,12 @@
         {
           "id": "4",
           "name": "Ethan Adams",
+          "description": "Class Design Boss & Element Maker",
           "children": [
             {
               "id": "5",
               "name": "Daniel Murchie",
+              "description": "Class Designer",
               "children": []
             }
           ]
