@@ -15,19 +15,19 @@
               "name": "Joaquinn Arimany",
               "description": "Map Design",
               "children": []
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "name": "Ethan Adams",
-          "description": "Class Design Boss & Element Maker",
-          "children": [
+            },
             {
-              "id": "5",
-              "name": "Daniel Murchie",
-              "description": "Class Designer",
-              "children": []
+              "id": "4",
+              "name": "Ethan Adams",
+              "description": "Class Design Boss & Element Maker",
+              "children": [
+                {
+                  "id": "5",
+                  "name": "Daniel Murchie",
+                  "description": "Class Designer",
+                  "children": []
+                }
+              ]
             }
           ]
         }
